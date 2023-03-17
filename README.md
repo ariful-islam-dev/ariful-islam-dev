@@ -1,4 +1,10 @@
-### Hi there 👋
+
+### **Hi, I'm [Md. Ariful Islam][facebook]** :wave:
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Operator+Mono&size=30&duration=3000&pause=500&color=00B8D4&center=false&vCenter=true&width=500&height=80&lines=I+am+a+Programmer;I+am+a+Web+Developer)](https://github.com/0xNaim)
+
 
 <!--
 **nodeAriful/nodeAriful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
