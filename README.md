@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://twitter.com/ariful4082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ariful4082" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ariful-islam0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ariful-islam0" height="30" width="40" /></a>
-<a href="https://fb.com/ariful4082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ariful4082" height="30" width="40" /></a>
+<a href="https://fb.com/Ariful4082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ariful4082" height="30" width="40" /></a>
 <a href="https://medium.com/@ariful4966" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ariful4966" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucn9svbzxuqxdqcv-ge2ghnq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucn9svbzxuqxdqcv-ge2ghnq" height="30" width="40" /></a>
 </p>
